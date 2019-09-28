@@ -12,7 +12,7 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\pr soft\\eclipse-worksp
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://accounts.google.com");
 		driver.quit();
-		
+		driver.quit();
 		
 		
 		
