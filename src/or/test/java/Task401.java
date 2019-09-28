@@ -25,11 +25,7 @@ System.setProperty("webdriver.chrome.driver","C:\\Users\\pr soft\\eclipse-worksp
         WebElement btn1 = driver.findElement(By.xpath("//span[text()='Next']"));
         btn1.click();
         
-        
-		
-		
-		WebElement button = driver.findElement(By.xpath("//input[@value='Log In']"));
-		button.click();
+ 
 		
 		
 		
